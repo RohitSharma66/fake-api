@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Pizza with tomatoes",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p1.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p1.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -10,7 +10,7 @@
       {
         "id": 2,
         "name": "Margherita",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p2.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p2.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -18,7 +18,7 @@
       {
         "id": 3,
         "name": "Marinara",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p3.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p3.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -26,7 +26,7 @@
       {
         "id": 4,
         "name": "Prosciutto e funghi",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p4.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p4.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -34,7 +34,7 @@
       {
         "id": 5,
         "name": "Quattro Stagioni",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p5.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p5.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -42,7 +42,7 @@
       {
         "id": 6,
         "name": "Capricciosa",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p6.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p6.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -50,7 +50,7 @@
       {
         "id": 7,
         "name": "Quattro Formaggi",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p7.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p7.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -58,7 +58,7 @@
       {
         "id": 8,
         "name": "Diavola",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p8.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p8.jpg",
         "price": 20,
         "priceCurrency": "GB"
       },
@@ -66,7 +66,7 @@
       {
         "id": 9,
         "name": "Ortolana/Vegetariana",
-        "imageUrl": "https://raw.githubusercontent.com/api/fake-api/master/images/p9.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/RohitSharma66/fake-api/master/images/p9.jpg",
         "price": 20,
         "priceCurrency": "GB"
       }
